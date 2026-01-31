@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Chuột Logitech B100",
+    "price": 120000
+  },
+  {
+    "id": 2,
+    "name": "Bàn phím Dell KB216",
+    "price": 180000
+  },
+  {
+    "id": 3,
+    "name": "Tai nghe Sony MDR-ZX110",
+    "price": 350000
+  },
+  {
+    "id": 4,
+    "name": "USB Sandisk 32GB",
+    "price": 150000
+  },
+  {
+    "id": 5,
+    "name": "Ổ cứng SSD Kingston 240GB",
+    "price": 750000
+  },
+  {
+    "id": 6,
+    "name": "Màn hình LG 24 inch",
+    "price": 3200000
+  },
+  {
+    "id": 7,
+    "name": "Laptop Dell Inspiron 15",
+    "price": 14500000
+  },
+  {
+    "id": 8,
+    "name": "Loa Bluetooth JBL Go 3",
+    "price": 950000
+  }
+]
